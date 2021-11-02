@@ -18,5 +18,5 @@ rebase in local
 
 rebase in master
 
-
+fast forward in local 
 
