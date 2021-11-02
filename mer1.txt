@@ -20,3 +20,5 @@ rebase in master
 
 fast forward in local 
 
+3 way non conflit in master
+
