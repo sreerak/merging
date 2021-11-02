@@ -13,5 +13,9 @@ fetch in local
 
 fetch in remote
 
+
 rebase in local
+
+rebase in master
+
 
