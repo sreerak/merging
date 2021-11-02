@@ -3,5 +3,9 @@ for conflit
 3 way conflit in master
 
 3 way in conflit in local
+
 rebase conflit in local
+
+
+rebase conflit in master
 
