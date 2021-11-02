@@ -13,4 +13,9 @@ rebase in git hub in remote
 
 rebase in git hub in local
 
+
 rebase in git hub remote remote try2
+
+rebase in git hub local try 2
+
+
